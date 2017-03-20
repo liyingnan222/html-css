@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>task1</title>
+         <style type="text/css">
+         	
+         	p{text-indent:2em;}
+         	div{
+         		padding:20px;
+         		background-color:white;
+         		margin:20px;
+         		border:1px #ccc solid;
+         		text-align:left;
+         	}
+         	img{
+         		display:block;
+         		margin:0 auto;
+         	}
+         	p span{
+         		font-size:bold;
+         	}
+         	table,th,td{
+         		border:1px #ccc solid;
+         		border-collapse:collapse;
+         	}
+         	th{
+         		width:200px;
+         		text-align:left;
+         	    color:white;
+         	    background-color:black;
+         	    
+         	}
+         	.tr1{
+         		background-color:#ccc;
+         	}
+            body{
+            	background-color:#CCC;
+            }
+            ol{
+            	text-align:left;
+            }
+            .p1{
+            	color:#ccc;
+            }
+            
+            
+            
+            
+         	</style>
+    </head>
+    <body>
+    	<div class="div1">
+        <h1><strong>网站一级标签</strong></h1>
+        
+        	<h2>文章一级标题</h2>
+        	<h2>文章二级标题</h2>
+        <h4>文章作者&nbsp;&nbsp;文章发表时间</h4>
+        <p>从前有座庙，庙里有个<strong>老和尚</strong>。从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。从前有座从前有座庙，庙里有个老和尚。
+        	庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。
+        	从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。</p><a href="https://zhidao.baidu.com/question/547484335.html">三个和尚故事原文</a>
+        </br>换行了一天，这里来了个小和尚。这个小和尚。。。
+       
+     <div><center>好看的图片</center><img src="http://img01.tooopen.com/Downs/images/2009/10/20/sy_20091020134926533016.jpg" width="200px" height="100px" alt="" title="老和尚"></div>
+     <div><center>好看的图片</center><img src="http://img01.tooopen.com/Downs/images/2009/10/20/sy_20091020134926533016.jpg" width="200px" height="100px" alt="" title="老和尚"></img></div>
+     <div><center>好看的图片</center><img src="http://img01.tooopen.com/Downs/images/2009/10/20/sy_20091020134926533016.jpg" width="200px" height="100px" alt="" title="老和尚"></img></div>
+     <div><center>好看的图片</center><img src="http://img01.tooopen.com/Downs/images/2009/10/20/sy_20091020134926533016.jpg" width="200px" height="100px" alt="" title="老和尚"></img></div>
+       
+         <p>从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。
+        	从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。
+        	从前有座庙，庙里有个老和尚。从前有座庙，庙里有个老和尚。</p></br>一天，这里来了个小和尚。这个小和尚。。。
+       
+        </div>
+        	
+        <div>
+        	<caption><h2>另一篇文章一级标题</h2></caption>
+        	<p><h2>文章二级标题</h2></p>
+            <h3>文章作者;&nbsp;&nbsp;文章发表时间</h3>
+                 <h4>文章作者&nbsp;&nbsp;文章发表时间</h4>
+        
+        <p><h4>从前有座庙，庙里有个老和尚。</br>一天，这里来了个小和尚。这个小和尚。。。</h4></p>
+            
+        	<p><h1>图片</h1></p>
+               <div id=""> <center>相信</center><img src="http://www.haoqq.net/article/UploadPic/2012-12/201212241233756684.jpg" alt="" title="" width="200px" height="100px"></img></div>
+        <ul>
+        	<ol>列表项目一</ol>
+        	<ol>列表项目二</ol>
+        	<ol>列表项目三</ol>
+        
+        </ul>
+        </div>
+        	
+       <div>
+       	<caption><h1>最后一篇文章一级标题</h1></caption>
+       <h2>文章二级标题</h2>
+       <h4>文章作者&nbsp;&nbsp;文章发表时间</h4>
+          <h4>1.排名1</h4>
+          <h4>2.排名2</h4> 	
+          <h4>3.排名3</h4>
+        	
+        	<p><h3>下面是一个表格</h3></p>
+        	
+   <table border="1">
+   	   <tr>
+   	   	   <th>表头</th>
+   	   	    <th>表头</th>
+   	   	     <th>表头</th>
+   	   </tr>
+   	   <tr>
+   	   	    <td>表内容单元格</td>
+   	          <td>表内容单元格</td>
+   	            <td><a href="">操作</a></td>
+   	   </tr>
+   	   <tr>
+   	   	    <td>表内容单元格</td>
+   	          <td>表内容单元格</td>
+   	            <td><a href="">操作</a></td>
+   	   </tr>
+   	   <tr>
+   	   	    <td>表内容单元格</td>
+   	          <td>表内容单元格</td>
+   	            <td><a href="">操作</a></td>
+   	   </tr>
+   	   <tr>
+   	   	    <td>表内容单元格</td>
+   	          <td>表内容单元格</td>
+   	            <td><a href="">操作</a></td>
+   	   </tr>
+   	   <tr class="tr1">
+   	   	 <td colspan=>总计</td>
+   	   	 <td colspan="2">1000</td>
+   	   	 <td></td>
+   	   </tr>
+   	   </table>
+   	   </div>
+   	   
+   	   <div class="div1"><p><h1>下面输入你的信息</h1></p>
+   	   <caption><strong>侧栏注册窗口标题</strong></caption>
+   	   
+   	   
+        	<center><form>
+        		<label>请输入邮箱地址：<input type="text" name="" value="这是一个文本框"></label>
+        	</br>  <p class="p1"> &nbsp;&nbsp;&nbsp;邮箱地址请按要求格式输入</p>
+        	              请输入密码           &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp<input type="password" name="" value="这是一个文本输入框">
+       </br>请重复输入密码     &nbsp;&nbsp;<input type="password" name="" value="这是一个文本输入框">
+        		<p class="p1">密码请为6-16位英文数字</p>
+        		性别&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        		<label class="la1">男</label>
+        		<input type="radio" value="1" name="man" checked="checked"/>
+        		<label class="la1">女</label>
+        		<input type="radio" value="2" name="man"/>
+        <p>城市&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        			<select>
+        				<option value="" selected="selected">北京</option>
+        				<option value="">上海</option>
+        				<option value="">深圳</option>
+        				<option value="">山西</option>
+        				</select>
+        			  </br>爱好&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" value="1" name="" >运动
+        			<input type="checkbox" value="1" name="" >艺术
+        			<input type="checkbox" value="1" name="" >科学
+        		<input type="checkbox" value="1" name="">文学</p>
+        		<lable>个人描述&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</lable>
+        			<textarea cols="12" rows="6">这是一个多行输入框，输入您的个人描述</textarea>
+        		</br><input type="submit" value="确认提交" name="" style="background:blue;color:white;width:500px;">
+        	</div>
+        	<div style="background:black;color:white"<center><strong>尹暮晨版权所有@</strong></center></div>
+        		</form>
+        		</center>
+    </body>
+</html>
