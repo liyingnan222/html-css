@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>任务三</title>
+			<style type="text/css">
+				#left{
+			   float:left;
+				padding:20px;
+				border:2px solid #999;
+				margin:0px;
+				position:absolute;
+			    width:100%;
+				height:98%;
+				background:#eee;
+				}
+				.right{
+					right:20px;
+					position:absolute;
+				    float:right;
+					border:2px solid #999;
+					padding:20px;
+					width:120px;
+					
+					background:white;
+					}
+				.div1{
+				border:2px solid #999;
+				float:left;
+				position:relative;
+				padding:20px;
+				left:0;
+				width:200px;
+				height:80px;
+				background:white;
+				}
+				.div2{
+				left:0;
+				position:relative;
+				border:2px solid #999;	
+				width:90px;
+				height:60px;
+				padding-top:20px;
+				float:left;
+				background:#eee;
+			}
+			h4{
+				
+				float:right;
+			}
+			.main{
+				padding:20px;	
+				border:2px solid #999;
+				height:80%;
+				text-align:center;
+				background:white;
+				margin:0 210px 0 270px;
+				position:absolute;
+			}
+			.logo1{
+				
+				text-align:centenr;
+				border:2px solid #999;
+				padding:20px;
+				margin:10px;
+				background:#eee;
+				width:60px;
+				
+			}
+			.logo2{
+				border:2px solid #999;
+				padding:20px;
+				margin:10px;
+				background:#eee;
+				text-align:centenr;
+				width:60px;
+			}
+			.logo3{
+				border:2px solid #999;
+				padding:20px;
+				margin:10px;
+				background:#eee;
+				text-align:centenr;
+				width:60px;
+			}
+			.logo4{
+				border:2px solid #999;
+				padding:20px;
+				margin:10px;
+				background:#eee;
+				text-align:centenr;
+				width:60px;
+			}
+			</style>
+		
+	</head>
+	<body>
+		<div id="left">
+	
+			<div  class="div1"><h4>团队名称</h4>
+			<div class="div2"><center>团队LOGO</br>80x80</center></div></div>
+			
+		<div class="main">关于你们团队的介绍</br>
+			我们是一组由大学生组成的学习团队，都是JS入门级别的菜鸟。</div>
+		<div class="right">
+			<div class="logo1">个人LOGO</br>80x80</div>
+			<div class="logo2">个人LOGO</br>80x80</div>
+			<div class="logo3">个人LOGO</br>80x80</div>
+			<div class="logo4">个人LOGO</br>80x80</div>
+		</div>
+		</div>
+    </body>
+</html>
